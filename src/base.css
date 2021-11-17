@@ -35,4 +35,6 @@ button {
 input {
   background: #b7b3c9;
   border-radius: 5px;
+  font-size: 18px;
+  height: 40px;
 }
